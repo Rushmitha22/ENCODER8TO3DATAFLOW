@@ -1,5 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
-
+###  EXP 5 :Implementation-of- Encoder 8 To 3 in Dataflow Modelling using-verilog
+# NAME : RUSHMITHA R
+# REGISTRATION NUMBER : 24006587
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -42,14 +43,18 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by: RegisterNumber:24006587
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![ENCODER DE DIAGRAM](https://github.com/user-attachments/assets/4f06be54-58b7-437f-9b97-700d6ffe1bc7)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**CODE**
+![ENCODER DE CODE](https://github.com/user-attachments/assets/45404eb7-41a6-4327-a142-a06a07dff42b)
 
 **RESULTS**
+![ENCODER DE OUTPUT](https://github.com/user-attachments/assets/1484f791-2717-4535-b553-485ddbb04658)
+
 
 
 
