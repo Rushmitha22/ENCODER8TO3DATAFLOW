@@ -1,6 +1,6 @@
-###  EXP 5 :Implementation-of- Encoder 8 To 3 in Dataflow Modelling using-verilog
-# NAME : RUSHMITHA R
-# REGISTRATION NUMBER : 24006587
+#  EXP 5 :Implementation-of- Encoder 8 To 3 in Dataflow Modelling using-verilog
+## NAME : RUSHMITHA R
+## REGISTRATION NUMBER : 24006587
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
